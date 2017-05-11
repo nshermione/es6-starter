@@ -8,6 +8,8 @@ Install with [npm](https://www.npmjs.com/)
 $ npm install
 ```
 
+> ## Run & Deploy
+
 Run development:
 
 ```sh
