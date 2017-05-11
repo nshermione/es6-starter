@@ -1,4 +1,4 @@
-# app
+# ES6-Starter (webpack)
 
 > ## Install
 
